@@ -1,18 +1,5 @@
 # Introduction to Databases
 
-```
-🎯 Lesson Goals
-
--   Understand what a database is
--   Understand that we can use a database in order for data to persist
-
-Things we'll be doing:
-
--   How to create a database using sqlite3
--   How to insert data into the database
--   How to fetch data from the database
-```
-
 ## 0. What is a Database?
 
 Simply put, a database is where we store data (information) for access and management. Before computers, we stored data in physical systems like printed books or cards.
